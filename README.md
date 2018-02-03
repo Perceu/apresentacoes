@@ -1,1 +1,3 @@
-# apresentacoes
+# Apresentações
+
+Repositorio das palestras
